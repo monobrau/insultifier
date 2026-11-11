@@ -1,0 +1,8 @@
+_preview.txt
+_fired.txt
+_load.txt
+_err.txt
+_stdout.txt
+*.tmp
+Thumbs.db
+.DS_Store
